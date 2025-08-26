@@ -1,0 +1,13 @@
+[project]
+name = "bond-visualizer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandamap>=4.1.0",
+    "polars>=1.32.2",
+    "py3dmol>=2.5.2",
+    "ruff>=0.12.9",
+    "streamlit>=1.48.0",
+]
